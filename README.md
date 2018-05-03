@@ -1,4 +1,5 @@
-# Rocket Tracking and Guidance Simulation v 0.0
+# WASH v0.0
+# Rocket Tracking and Guidance Simulation
 
 This is meant to be a program that will model a rocket launch and perform tracking, as well as guidance on that simulated rocket.
 
